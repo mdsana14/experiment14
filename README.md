@@ -18,6 +18,6 @@ Apply migrations
 Use runserver to view app
 
 GitHub Repo:
-🔗 https://github.com/yourusername/project14-django-student
+🔗 https://github.com/mdsana14/experiment14.git
 
 
